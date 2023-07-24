@@ -1,1 +1,1 @@
-# TMBA
+#TMBA quantative trading club project 
